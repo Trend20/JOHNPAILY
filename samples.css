@@ -1,0 +1,19 @@
+.mapstyle1{
+height: 1000px;
+width: 100%;
+background-color: #b5d0d0;
+}
+
+.mapstyle2{
+height: 500px;
+width: 50%;
+background-color: #b5d0d0;
+}
+
+.half-map{
+float: left;
+height: 500px;
+width: 50%;
+background-color: #b5d0d0;
+}
+
